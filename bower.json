@@ -1,0 +1,26 @@
+{
+  "name": "deep-intent",
+  "version": "0.0.1",
+  "description": "Prepopulates tweets inside the native twitter application",
+  "main": "DeepIntent.js",
+  "keywords": [
+    "twitter",
+    "deeplink",
+    "deep",
+    "link",
+    "javascript"
+  ],
+  "authors": [
+    "Eli Fitch (http://twitter.com/elifitch)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/elifitch/deep-intent",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
